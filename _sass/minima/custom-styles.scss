@@ -6,6 +6,7 @@ img[alt=people] { width: 120px; border-radius: 50%; }
 .page-content table {
   width: 100%;
   table-layout: fixed;
+  margin-bottom: 20px;
 }
 
 /* Default table cell styling */
@@ -14,6 +15,13 @@ img[alt=people] { width: 120px; border-radius: 50%; }
   text-align: center;
   word-wrap: break-word;
   vertical-align: top;
+  padding: 8px 4px;
+}
+
+/* For 2-column tables */
+.page-content table.two-col th,
+.page-content table.two-col td {
+  width: 50%;
 }
 
 /* For 4-column tables */
@@ -37,5 +45,6 @@ img[alt=people] { width: 120px; border-radius: 50%; }
 /* Custom class for publication lists to handle wrapping */
 .publication-list {
   font-size: 0.9em;
-  line-height: 1.2;
+  line-height: 1.3;
+  display: block;
 }
