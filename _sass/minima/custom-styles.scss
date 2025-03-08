@@ -1,6 +1,12 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-img[alt=people] { width: 120px; border-radius: 50%; }
+img[alt=people] { 
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
 
 /* Equal width tables for the people page */
 .page-content table {
