@@ -2,10 +2,10 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 img[alt=people] { 
   width: 120px;
-  height: 120px;
-  border-radius: 50%;
+  height: 160px;  /* Taller than width to create oval shape */
+  border-radius: 50%;  /* Still 50% for smooth oval edges */
   object-fit: cover;
-  object-position: center;
+  object-position: center top;  /* Position from the top to show faces better */
 }
 
 /* Equal width tables for the people page */
