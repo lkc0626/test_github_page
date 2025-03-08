@@ -5,11 +5,11 @@ permalink: /people/
 ---
 **Graduate Students**
 
-{: .four-col}
-| Kyungchan Lim | Fujiao Ji | Lu Liu | Jaehwan Park |
-|:-------------:|:----------:|:------:|:------------:|
+{: .four-col-custom}
+| [Kyungchan Lim](https://kyungchanlim.github.io/) | [Fujiao Ji](https://fujiaoji.github.io/) | Lu Liu | [Jaehwan Park](https://sites.google.com/view/jaehwanpark/home) |
+|:--------------:|:----------:|:------:|:------------:|
 | PhD CS; 2021 - Present | PhD CS; 2022 - present | PhD CS; 2023 - present | PhD CS; 2024 - present |
-| ![people](../assets/images/kyungchan.png) | ![people](../assets/images/fujiao-ji.png) | ![people](../assets/images/lu-liu.jpg) | ![people](../assets/images/jaehwan.png) |
+| [![people](../assets/images/kyungchan.png)](https://kyungchanlim.github.io/) | [![people](../assets/images/fujiao-ji.png)](https://fujiaoji.github.io/) | ![people](../assets/images/lu-liu.jpg) | [![people](../assets/images/jaehwan.png)](https://sites.google.com/view/jaehwanpark/home) |
 | <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, WWW'25 (1), WWW'25 (2)</span> | <span class="publication-list">USENIX Sec'25, WWW'25</span> | | WWW'24 |
 
 **Undergraduate Students**  
