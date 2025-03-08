@@ -1,0 +1,41 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+img[alt=people] { width: 120px; border-radius: 50%; }
+
+/* Equal width tables for the people page */
+.page-content table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+/* Default table cell styling */
+.page-content table th,
+.page-content table td {
+  text-align: center;
+  word-wrap: break-word;
+  vertical-align: top;
+}
+
+/* For 4-column tables */
+.page-content table.four-col th,
+.page-content table.four-col td {
+  width: 25%;
+}
+
+/* For 5-column tables */
+.page-content table.five-col th,
+.page-content table.five-col td {
+  width: 20%;
+}
+
+/* For 6-column tables */
+.page-content table.six-col th,
+.page-content table.six-col td {
+  width: 16.66%;
+}
+
+/* Custom class for publication lists to handle wrapping */
+.publication-list {
+  font-size: 0.9em;
+  line-height: 1.2;
+}
