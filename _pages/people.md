@@ -5,7 +5,7 @@ permalink: /people/
 ---
 **Graduate Students**
 
-{: .four-col-custom}
+{: .four-col}
 | Kyungchan Lim | Fujiao Ji | Lu Liu | Jaehwan Park |
 |:-------------:|:----------:|:------:|:------------:|
 | PhD CS; 2021 - Present | PhD CS; 2022 - present | PhD CS; 2023 - present | PhD CS; 2024 - present |
