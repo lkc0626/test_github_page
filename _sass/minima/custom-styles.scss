@@ -36,6 +36,17 @@ img[alt=people] {
   width: 25%;
 }
 
+/* For custom 4-column table with wider first column */
+.page-content table.four-col-custom th:first-child,
+.page-content table.four-col-custom td:first-child {
+  width: 35%;
+}
+
+.page-content table.four-col-custom th:not(:first-child),
+.page-content table.four-col-custom td:not(:first-child) {
+  width: calc(65% / 3);
+}
+
 /* For 5-column tables */
 .page-content table.five-col th,
 .page-content table.five-col td {
@@ -50,7 +61,21 @@ img[alt=people] {
 
 /* Custom class for publication lists to handle wrapping */
 .publication-list {
-  font-size: 0.9em;
+  font-size: 0.85em;
   line-height: 1.3;
   display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Show full text on hover */
+.publication-list:hover {
+  white-space: normal;
+  overflow: visible;
+  z-index: 1;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 2px;
+  border-radius: 3px;
 }
