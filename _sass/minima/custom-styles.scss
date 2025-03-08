@@ -3,7 +3,7 @@
 img[alt=people] { 
   width: 120px;
   height: 120px;  /* Taller than width to create oval shape */
-  border-radius: 60px / 60px;  /* Horizontal/vertical radius for oval shape */
+  border-radius: 60px / 70px;  /* Horizontal/vertical radius for oval shape */
   object-fit: cover;
   object-position: center top;  /* Position from the top to show faces better */
 }
