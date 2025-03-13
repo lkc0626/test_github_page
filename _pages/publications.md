@@ -54,7 +54,7 @@ Sanghak Oh<sup>*</sup>, <ins>Kiho Lee</ins><sup>*</sup>, Seonhye Park, **Doowon 
 - **Phishing Vs. Legit: Comparative Analysis of Client-Side Resources of Phishing and Target Brand Websites.**  
 <ins>Kyungchan Lim</ins>, <ins>Jaehwan Park</ins>, and **Doowon Kim**.  
 [<span class="badge badge-info">The Web Conference '24</span>](https://www2024.thewebconf.org) (TheWebConf 2024, formerly WWW). Acceptance rate: 20.2% (out of 2008). <span class="badge badge-dark">C</span>   
-<span class="badge badge-dark">Oral</span>
+<span class="badge badge-dark">Oral (9.6%)</span>
 [<span class="badge badge-dark">PDF</span>](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf) [<span class="badge badge-dark">Slides</span>](https://doowon.github.io/assets/papers/2024/WWW_2024_presentation_klim.pdf) [<span class="badge badge-dark">One-page Summary</span>](https://doowon.github.io/assets/papers/2024/ResearchTrack_Security_klim_final.pdf)
 
 
