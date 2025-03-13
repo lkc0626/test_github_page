@@ -18,13 +18,13 @@ permalink: /publications/
 
 - **What’s in Phishers: A Longitudinal Study of Security Configurations in Phishing Websites and Kits.**   
 <ins>Kyungchan Lim</ins>, <ins>Kiho Lee</ins>, <ins>Fujiao Ji</ins>, Yonghwi Kwon, Hyoungshick Kim, **Doowon Kim**.   
-[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062). <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
+[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062), Oral: 7.6%. <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
 [<span class="badge badge-dark">PDF</span>]()   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/security-configurations-measurement/)   
 
 - **7 Days Later: Analyzing Phishing-Site Lifespan After Detected.**   
 <ins>Kiho Lee</ins><sup>*</sup>, <ins>Kyungchan Lim</ins><sup>*</sup>, Hyoungshick Kim, Yonghwi Kwon, **Doowon Kim**.  
 <sup>*</sup>equal contributions.  
-[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062). <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
+[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062), Oral: 7.6%. <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
 [<span class="badge badge-dark">PDF</span>]()   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/phishing-alive-measurement/)    
 
 
