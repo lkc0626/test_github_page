@@ -42,7 +42,7 @@ permalink: /people/
 |:-----------:|:----------:|:----------------:|:----------:|:-----------:|:----------------:|
 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | BS, 2022 |
 | ![under](../assets/images/laura.jpg) | ![under](../assets/images/sandy.jpg) | ![under](../assets/images/makenzie.jpg) | ![under](../assets/images/kol.jpg) | ![under](../assets/images/henry.jpg) | ![under](../assets/hacker.png) |
-||||||| Now at Cadre5 |
+|||||| Now at Cadre5 |
 
 {: .six-col}
 | Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price | Andrei Cozma | Matt Dixson |
