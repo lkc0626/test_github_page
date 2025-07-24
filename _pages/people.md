@@ -19,7 +19,7 @@ permalink: /people/
 |:-------------:|:-:|:-:|
 | PhD CS; 2021 - 2025 | | |
 | ![people](../assets/images/kyungchan.png) | | |
-| <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, WWW'25 (1), WWW'25 (2)</span> | | |
+| <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, [WWW'25 (1)](https://dl.acm.org/doi/10.1145/3696410.3714710), WWW'25 (2)</span> | | |
 
 **Visiting Scholars & Interns**  
 
@@ -43,20 +43,18 @@ permalink: /people/
 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
 | ![people](../assets/images/laura.jpg) | ![people](../assets/images/sandy.jpg) | ![people](../assets/images/makenzie.jpg) | ![people](../assets/images/kol.jpg) | ![people](../assets/images/henry.jpg) |
 
-**Previous Students**
-
 {: .six-col}
 | Autumn Henderson | Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price | Andrei Cozma |
 |:----------------:|:-----------------:|:--------------:|:-------------:|:------------:|:------------:|
 | BS, 2022 | MS, 2022 | BS, 2021 | BS, 2021 | BS/MS, 2023 | BS/MS, 2023 |
-| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) |
+| ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
 | Now at Cadre5 | | Now at NTT Data | Now at CGI Federal | Now a Ph.D. student at UTK | Now a Ph.D. student at UTK |
 
 {: .six-col}
 | Matt Dixson | Reed Semmel | Cole Elliott | Mike Hughes | Parker Collier | Anthony Roman |
 |:-----------:|:-----------:|:------------:|:-----------:|:--------------:|:-------------:|
 | BS/MS, 2023 | BS, 2023 | BS, 2023 | BS, 2023 | BS/MS, 2023 | BS/MS, 2023 |
-| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) |
+| ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
 | | Now at Nucor Steel | | | | |
 
 **Committees**
