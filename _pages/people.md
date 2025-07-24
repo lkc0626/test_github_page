@@ -9,8 +9,8 @@ permalink: /people/
 | [Fujiao Ji](https://fujiaoji.github.io/) | Lu Liu | [Jaehwan Park](https://sites.google.com/view/jaehwanpark/home) |
 |:----------:|:------:|:------------:|
 | PhD CS; 2022 - present | PhD CS; 2023 - present | PhD CS; 2024 - present |
-| ![people](../assets/images/fujiao-ji.png) | ![people](../assets/images/lu-liu.jpg) | ![people](../assets/images/jaehwan.png) |
-| <span class="publication-list">USENIX Sec'25, WWW'25</span> | | WWW'24, ESORICS'25 |
+| ![under](../assets/images/fujiao-ji.png) | ![under](../assets/images/lu-liu.jpg) | ![under](../assets/images/jaehwan.png) |
+| <span class="publication-list">[USENIX Sec'25](https://arxiv.org/pdf/2405.19598), [WWW'25 (1)](https://dl.acm.org/doi/10.1145/3696410.3714710)</span> | | [WWW'24](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf), [ESORICS'25](https://doowon.github.io/assets/papers/2025/park_esorics25.pdf) |
 
 **Previous Graduate Students**
 
@@ -18,8 +18,8 @@ permalink: /people/
 | [Kyungchan Lim](https://kyungchanlim.github.io/) | | |
 |:-------------:|:-:|:-:|
 | PhD CS; 2021 - 2025 | | |
-| ![people](../assets/images/kyungchan.png) | | |
-| <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, [WWW'25 (1)](https://dl.acm.org/doi/10.1145/3696410.3714710), WWW'25 (2)</span> | | |
+| ![under](../assets/images/kyungchan.png) | | |
+| <span class="publication-list">[WISA'22](https://doowon.github.io/assets/papers/2022/lim_wisa22.pdf), [SecWeb'23](https://ieeexplore.ieee.org/abstract/document/10188654), [IMC'23](https://dl.acm.org/doi/abs/10.1145/3618257.3624804), [WWW'24](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf), [WWW'25 (1)](https://doowon.github.io/assets/papers/2025/lim_phishing_www25_1.pdf), [WWW'25 (2)](https://doowon.github.io/assets/papers/2025/lim_phishing_www25_2.pdf)</span> | | |
 
 **Visiting Scholars & Interns**  
 
@@ -27,7 +27,7 @@ permalink: /people/
 | Seonhye Park | Kiho Lee | Mercy | Woonghee Lee |
 |:------------:|:--------:|:-----:|:------------:|
 | Visiting Scholar; 2025 | Visiting Scholar; 2024 | Summer Intern; 2024 | Summer Intern; 2022 |
-| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/images/mercy.jpg) | ![people](../assets/hacker.png) |
+| ![under](../assets/images/seonhye.jpeg) | ![under](../assets/hacker.png) | ![under](../assets/images/mercy.jpg) | ![under](../assets/hacker.png) |
 
 **Previous Undergraduate Students**
 
@@ -35,13 +35,13 @@ permalink: /people/
 | Mason Hyman | Jennifer Maranville | Keith Scroggs | Emily Vo | Jackson Weil | Austin Smith |
 |:-----------:|:-------------------:|:-------------:|:--------:|:------------:|:------------:|
 | CS; 2023 - 2025 | CS; 2023 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
-| ![people](../assets/hacker.png) | ![people](../assets/images/jen.jpg) | ![people](../assets/images/keith.jpg) | ![people](../assets/images/emily.jpeg) | ![people](../assets/images/jackson.jpg) | ![people](../assets/images/austin.jpg) |
+| ![under](../assets/hacker.png) | ![under](../assets/images/jen.jpg) | ![under](../assets/images/keith.jpg) | ![under](../assets/images/emily.jpeg) | ![under](../assets/images/jackson.jpg) | ![under](../assets/images/austin.jpg) |
 
 {: .five-col}
 | Laura Smith | Sandy Fata | Makenzie Johnson | Kol Dorney | Henry Hodge |
 |:-----------:|:----------:|:----------------:|:----------:|:-----------:|
 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
-| ![people](../assets/images/laura.jpg) | ![people](../assets/images/sandy.jpg) | ![people](../assets/images/makenzie.jpg) | ![people](../assets/images/kol.jpg) | ![people](../assets/images/henry.jpg) |
+| ![under](../assets/images/laura.jpg) | ![under](../assets/images/sandy.jpg) | ![under](../assets/images/makenzie.jpg) | ![under](../assets/images/kol.jpg) | ![under](../assets/images/henry.jpg) |
 
 {: .six-col}
 | Autumn Henderson | Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price | Andrei Cozma |
