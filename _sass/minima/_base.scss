@@ -2,6 +2,26 @@ html {
   font-size: $base-font-size;
 }
 
+.badge {
+  font-size: 85%;
+}
+
+.badge-conf-link{
+	/* background-color: transparent; */
+	/* color:  #5592cf; */
+	/* border: 1.5px solid  #5592cf; */
+  font-size: 90%;
+	box-shadow:0 2.1px 4px rgba(0,0,0,0.19), 0 0.5px 0.5px rgba(0,0,0,0.23);
+}
+	// .badge-conf-link:hover{
+	// 	color: /*#4AB4D0*/ #5592cf;
+	// 	background-color: /*#4AB4D0*/ #5592cf;
+	// }
+	.badge-conf-link:active {
+		text-decoration: underline;
+	}
+
+
 /**
  * Reset some basic elements
  */
@@ -120,7 +140,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: $link-visited-color;
+    /*color: $link-visited-color;*/
   }
 
   &:hover {

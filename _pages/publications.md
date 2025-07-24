@@ -7,29 +7,50 @@ permalink: /publications/
 <span class="badge badge-dark">C</span> Conference Proceeding | <span class="badge badge-dark">J</span> Journal Article | <span class="badge badge-dark">W</span> Workshop Proceeding
 </font>  
 
+<br>
+
 \*<ins>Underline</ins>: my advisee students.
 
 ### 2025
+- **A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends.**  
+Shakhzod Yuldoshkhujaev, Mijin Jeon, **Doowon Kim**, Nick Nikiforakis, and Hyungjoon Koo.  
+[<span class="badge badge-info">CCS '25</span>](https://www.sigsac.org/ccs/CCS2025/): The ACM Conference on Computer and Communications Security (CCS) 2025. <span class="badge badge-dark">C</span>  
+[<span class="badge badge-dark">PDF</span>]()  
+
+- **UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption.**  
+<ins>Jaehwan Park</ins>, Hyeonbum Lee, Junbeom Hur, Jae Hong Seo, and **Doowon Kim**.  
+[<span class="badge badge-info">ESORICS '25</span>](https://esorics2025.sciencesconf.org/): The 30th European Symposium on Research in Computer Security (ESORICS) 2025. <span class="badge badge-dark">C</span>  
+[<span class="badge badge-dark">PDF</span>]()   
+
 - **Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models.**   
-<ins>Fujiao Ji</ins>, <ins>Kiho Lee</ins>, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, **Doowon Kim**.   
+<ins>Fujiao Ji</ins>, <ins>Kiho Lee</ins>, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, and **Doowon Kim**.   
 [<span class="badge badge-info">USENIX Security '25</span>](https://www.usenix.org/conference/usenixsecurity25): The 34th USENIX Security Symposium (USENIX Security) 2025. <span class="badge badge-dark">C</span>  
 [<span class="badge badge-dark">PDF</span>](https://arxiv.org/pdf/2405.19598) [<span class="badge badge-dark">Code</span>](https://github.com/Fujiaoji/PhishingEval) [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/evaluation-visual-similarity-based-phishing-detection-models/)  
 
+- **Open Sesame! On the Security and Memorability of Verbal Passwords.**  
+Eunsoo Kim, <ins>Kiho Lee</ins>, **Doowon Kim**, and Hyoungshick Kim.  
+[<span class="badge badge-info">IEEE S&P '25</span>](https://sp2025.ieee-security.org/): The 46th IEEE Symposium on Security and Privacy. Acceptance rate: 14.8% (out of 1740). <span class="badge badge-dark">C</span>  
+[<span class="badge badge-dark">PDF</span>]() [<span class="badge badge-dark">Code</span>]() [<span class="badge badge-dark">Dataset</span>]()     
 
 - **What’s in Phishers: A Longitudinal Study of Security Configurations in Phishing Websites and Kits.**   
-<ins>Kyungchan Lim</ins>, <ins>Kiho Lee</ins>, <ins>Fujiao Ji</ins>, Yonghwi Kwon, Hyoungshick Kim, **Doowon Kim**.   
-[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062), Oral: 7.6%. <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
-[<span class="badge badge-dark">PDF</span>]()   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/security-configurations-measurement/)   
+<ins>Kyungchan Lim</ins>, <ins>Kiho Lee</ins>, <ins>Fujiao Ji</ins>, Yonghwi Kwon, Hyoungshick Kim, and **Doowon Kim**.   
+[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org): (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062). <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
+[<span class="badge badge-dark">PDF</span>](https://dl.acm.org/doi/10.1145/3696410.3714710)   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/security-configurations-measurement/)   
 
 - **7 Days Later: Analyzing Phishing-Site Lifespan After Detected.**   
-<ins>Kiho Lee</ins><sup>*</sup>, <ins>Kyungchan Lim</ins><sup>*</sup>, Hyoungshick Kim, Yonghwi Kwon, **Doowon Kim**.  
+<ins>Kiho Lee</ins><sup>*</sup>, <ins>Kyungchan Lim</ins><sup>*</sup>, Hyoungshick Kim, Yonghwi Kwon, and **Doowon Kim**.  
 <sup>*</sup>equal contributions.  
-[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org) (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062), Oral: 7.6%. <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
-[<span class="badge badge-dark">PDF</span>]()   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/phishing-alive-measurement/)    
+[<span class="badge badge-info">The Web Conference '25</span>](https://www2025.thewebconf.org): (TheWebConf 2025, formerly WWW). Acceptance rate: 19.8% (out of 2062). <span class="badge badge-dark">C</span> <span class="badge badge-dark">Oral</span>    
+[<span class="badge badge-dark">PDF</span>](https://dl.acm.org/doi/10.1145/3696410.3714678)   [<span class="badge badge-dark">Phishing Dataset</span>](https://moa-lab.net/phishing-alive-measurement/)    
 
 
 
 ### 2024
+- **Anti-EMP: Encrypted Malware Packets Filtering Algorithm Leveraging Ciphertext Patterns under Zero Knowledge Setting.**  
+Junggab Son, Jeehyung Kim, Jemin Ahn, **Doowon Kim**, Homook Cho, and Daeyoung Kim.  
+[<span class="badge badge-info">SecureComm '24</span>](https://securecomm.eai-conferences.org/2024/): the 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm). <span class="badge badge-dark">C</span>    
+[<span class="badge badge-dark">PDF</span>]()  
+
 - **An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.**  
 Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, <ins>Kiho Lee</ins>, **Doowon Kim**, and Yuan Hong.  
 [<span class="badge badge-info">USENIX Security '24</span>](https://www.usenix.org/conference/usenixsecurity24): The 33rd USENIX Security Symposium (USENIX Security) 2024. <span class="badge badge-dark">C</span>  
@@ -54,7 +75,7 @@ Sanghak Oh<sup>*</sup>, <ins>Kiho Lee</ins><sup>*</sup>, Seonhye Park, **Doowon 
 - **Phishing Vs. Legit: Comparative Analysis of Client-Side Resources of Phishing and Target Brand Websites.**  
 <ins>Kyungchan Lim</ins>, <ins>Jaehwan Park</ins>, and **Doowon Kim**.  
 [<span class="badge badge-info">The Web Conference '24</span>](https://www2024.thewebconf.org) (TheWebConf 2024, formerly WWW). Acceptance rate: 20.2% (out of 2008). <span class="badge badge-dark">C</span>   
-<span class="badge badge-dark">Oral (9.6%)</span>
+<span class="badge badge-dark">Oral</span>
 [<span class="badge badge-dark">PDF</span>](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf) [<span class="badge badge-dark">Slides</span>](https://doowon.github.io/assets/papers/2024/WWW_2024_presentation_klim.pdf) [<span class="badge badge-dark">One-page Summary</span>](https://doowon.github.io/assets/papers/2024/ResearchTrack_Security_klim_final.pdf)
 
 

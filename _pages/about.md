@@ -13,9 +13,9 @@ I'm an Assistant Professor in [the Department of Electrical Engineering and Comp
 
 My research interests include **computer security** (data-driven security and usable security), **computer networks** (Internet measurement), and the **Web**. I am interested in identifying the root causes of security threats by understanding the actors (e.g., adversary and end-users) involved, with *data-driven* and *human-centered* perspectives (i.e., usability study).
 
-I have been awarded [NSA Best Scientific Cybersecurity Paper](https://cps-vo.org/group/sos/papercompetition) (2017) and [the Ann G. Wylie Dissertation Fellowship](https://gradschool.umd.edu/funding/student-fellowships-awards/ann-g-wylie-dissertation-fellowship) (2019). My works about the Code-Signing PKI have been featured in Ars Technica, The Register, Schneier on Security, Threatpost, etc. 
+I was awarded an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2440819&HistoricalAwards=false) (2025), [NSA Best Scientific Cybersecurity Paper](https://cps-vo.org/group/sos/papercompetition) (2017) and [the Ann G. Wylie Dissertation Fellowship](https://gradschool.umd.edu/funding/student-fellowships-awards/ann-g-wylie-dissertation-fellowship) (2019). My works about the Code-Signing PKI have been featured in Ars Technica, The Register, Schneier on Security, Threatpost, etc. 
 
-<i class="fa fa-star" aria-hidden="true"></i> **I am actively looking for self-motivated undergraduate students and visiting scholars. Please email me if you're interested in security, computer networks, and Web security**.
+<i class="fa fa-star" aria-hidden="true"></i> **I am actively looking for self-motivated a PhD student, undergraduate students, and visiting scholars. Please email me if you're interested in web security (particularly, phishing attacks)**.
 
   </div>
   <div class="col-md-3" markdown="1">
@@ -32,13 +32,22 @@ I have been awarded [NSA Best Scientific Cybersecurity Paper](https://cps-vo.org
 </div>
 
 ### Recent Research Areas & Interests
-- Web & Phishing: [Usenix Security'25](), [TheWebConf'25 (1)](), [TheWebConf'25 (2)](), [TheWebConf'24](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf), [AsiaCCS'24](https://dl.acm.org/doi/10.1145/3634737.3657013), [NDSS'24](https://www.ndss-symposium.org/wp-content/uploads/2024-228-paper.pdf), [SIGMETRICS'24](https://dl.acm.org/doi/10.1145/3626790), [ACM IMC'23](https://doowon.github.io/assets/papers/2023/webclient_imc23.pdf), [AsiaCCS'21 (1)](https://dl.acm.org/doi/abs/10.1145/3433210.3453100), [AsiaCCS'21 (2)](https://dl.acm.org/doi/10.1145/3433210.3453107), [TheWebConf'21](https://dl.acm.org/doi/abs/10.1145/3442381.3450057), [eCrime'20](https://ieeexplore.ieee.org/document/9493260)
-- Secure Software Development: [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/yan), [IEEE S&P'24](https://arxiv.org/abs/2312.06227), [IEEE S&P'17](https://ieeexplore.ieee.org/document/7958576), [IEEE S&P'16](https://ieeexplore.ieee.org/document/7546508)
-- Public Key Infrastructures (PKI): [Usenix Security'18](https://www.usenix.org/conference/usenixsecurity18/presentation/kim), [WEIS'18](https://arxiv.org/abs/1803.02931), [ACM CCS'17](https://dl.acm.org/doi/10.1145/3133956.3133958)
-- Software Security: [IEEE S&P'23](https://ieeexplore.ieee.org/document/10179370), [ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510139)
+- Web & Phishing: [<span class="badge badge-conf-link">USENIX Security'25</span>](https://arxiv.org/pdf/2405.19598) [<span class="badge badge-conf-link">TheWebConf'25 (1)</span>](https://dl.acm.org/doi/10.1145/3696410.3714710) [<span class="badge badge-conf-link">TheWebConf'25 (2)</span>](https://dl.acm.org/doi/10.1145/3696410.3714678) [<span class="badge badge-conf-link">TheWebConf'24</span>](https://doowon.github.io/assets/papers/2024/lim_phishing_www24.pdf) [<span class="badge badge-conf-link">AsiaCCS'24</span>](https://dl.acm.org/doi/10.1145/3634737.3657013) [<span class="badge badge-conf-link">NDSS'24</span>](https://www.ndss-symposium.org/wp-content/uploads/2024-228-paper.pdf) [<span class="badge badge-conf-link">SIGMETRICS'24</span>](https://dl.acm.org/doi/10.1145/3626790) [<span class="badge badge-conf-link">ACM IMC'23</span>](https://doowon.github.io/assets/papers/2023/webclient_imc23.pdf) [<span class="badge badge-conf-link">AsiaCCS'21 (1)</span>](https://dl.acm.org/doi/abs/10.1145/3433210.3453100) [<span class="badge badge-conf-link">AsiaCCS'21 (2)</span>](https://dl.acm.org/doi/10.1145/3433210.3453107) [<span class="badge badge-conf-link">TheWebConf'21</span>](https://dl.acm.org/doi/abs/10.1145/3442381.3450057) [<span class="badge badge-conf-link">eCrime'20</span>](https://ieeexplore.ieee.org/document/9493260)  
+
+- Secure Software Development: [<span class="badge badge-conf-link">USENIX Security'24</span>](https://www.usenix.org/conference/usenixsecurity24/presentation/yan), [<span class="badge badge-conf-link">IEEE S&P'24</span>](https://arxiv.org/abs/2312.06227), [<span class="badge badge-conf-link">IEEE S&P'17</span>](https://ieeexplore.ieee.org/document/7958576), [<span class="badge badge-conf-link">IEEE S&P'16</span>](https://ieeexplore.ieee.org/document/7546508)
+
+- Public Key Infrastructures (PKI): [<span class="badge badge-conf-link">Usenix Security'18</span>](https://www.usenix.org/conference/usenixsecurity18/presentation/kim), [<span class="badge badge-conf-link">WEIS'18</span>](https://arxiv.org/abs/1803.02931), [<span class="badge badge-conf-link">ACM CCS'17</span>](https://dl.acm.org/doi/10.1145/3133956.3133958)
+
+- Software Security: [<span class="badge badge-conf-link">IEEE S&P'23</span>](https://ieeexplore.ieee.org/document/10179370), [<span class="badge badge-conf-link">ICSE'22</span>](https://dl.acm.org/doi/abs/10.1145/3510003.3510139)
 
 
 ### News
+- Jul. 2025: <span class="badge badge-pill badge-dark">Award</span> I was awarded an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2440819&HistoricalAwards=false). 
+- Jul. 2025: <span class="badge badge-pill badge-dark">Paper</span> "Longitudinal Analysis of Advanced Persistent Threats" is accepted at CCS'25.
+- Jun. 2025: <span class="badge badge-pill badge-dark">Paper</span> Jaehwan's first paper as the lead author is accepted at ESORICS'25. 
+- Apr. 2025: My first PhD student, Kyungchan Lim, successfully defended his thesis today. His research addresses phishing attack detection delays by analyzing both attackers and legitimate developers. With four publications in top-tier conferences, Dr. Lim's work represents a significant contribution to cybersecurity. Congratulations!
+- Mar. 2025: <span class="badge badge-pill badge-dark">Paper</span> Our paper about security and memorability of verbal passwords is accepted at IEEE S&P'25.
+- Mar. 2025: <span class="badge badge-pill badge-dark">Award</span> Congrats to Kyungchan on being awarded the 2025 Gonzalez Family Graduate Research Assistantship! 
 - Jan. 2025: <span class="badge badge-pill badge-dark">Paper</span> Congrats Fujiao! Her paper about evaluating the effectiveness and robustness of visual simiarity-based phishing detection models is accepted at USENIX Security 2025.
 - Jan. 2025: <span class="badge badge-pill badge-dark">Paper</span> Congrats Kyungchan and Fujiao! Two papers are accepted at TheWebConf'25 (formerly known as WWW). The first paper introduces a novel anti-phishing intervention that exploits inherent vulnerabilities in phishing websites and kits. The second paper presents a comprehensive measurement study analyzing the takedown dynamics of phishing websites post-detection.
 - Oct. 2024: Congrats Jaehwan on winning third place in the Korea National Cryptography Competition!
@@ -80,14 +89,20 @@ I have been awarded [NSA Best Scientific Cybersecurity Paper](https://cps-vo.org
 
 
 ### Selected Publications
+- \[ACM CCS '25\]: **A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends.**  
+Shakhzod Yuldoshkhujaev, Mijin Jeon, <span style="color:blue">Doowon Kim</span>, Nick Nikiforakis, and Hyungjoon Koo.  
+
 - \[Usenix Security '25\]: **Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models.**   
-<ins>Fujiao Ji</ins>, <ins>Kiho Lee</ins>, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, <span style="color:blue">Doowon Kim</span>.   
+<ins>Fujiao Ji</ins>, <ins>Kiho Lee</ins>, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, and <span style="color:blue">Doowon Kim</span>. 
+
+- \[IEEE S&P '25\]: **Open Sesame! On the Security and Memorability of Verbal Passwords.**  
+Eunsoo Kim, <ins>Kiho Lee</ins>, <span style="color:blue">Doowon Kim</span>, and Hyoungshick Kim.  
 
 - \[TheWebConf '25\]: **What’s in Phishers: A Longitudinal Study of Security Configurations in Phishing Websites and Kits.**  
-<ins>Kyungchan Lim</ins>, <ins>Kiho Lee</ins>, <ins>Fujiao Ji</ins>, Yonghwi Kwon, Hyoungshick Kim, <span style="color:blue">Doowon Kim</span>.   
+<ins>Kyungchan Lim</ins>, <ins>Kiho Lee</ins>, <ins>Fujiao Ji</ins>, Yonghwi Kwon, Hyoungshick Kim, and <span style="color:blue">Doowon Kim</span>.   
 
 - \[TheWebConf '25\]: **7 Days Later: Analyzing Phishing-Site Lifespan After Detected.**   
-<ins>Kiho Lee</ins>, <ins>Kyungchan Lim</ins>, Hyoungshick Kim, Yonghwi Kwon, <span style="color:blue">Doowon Kim</span>.   
+<ins>Kiho Lee</ins>, <ins>Kyungchan Lim</ins>, Hyoungshick Kim, Yonghwi Kwon, and <span style="color:blue">Doowon Kim</span>.   
 
 - \[Usenix Security '24\]: **An LLM-Assisted Easy-to-Trigger Poisoning Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.**  
 Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, <ins>Kiho Lee</ins>, <span style="color:blue">Doowon Kim</span> and Yuan Hong.
@@ -128,24 +143,21 @@ Hyunwoo Lee, <span style="color:blue">Doowon Kim</span>, and Yonghwi Kwon.
 - \[IEEE S&P '17\]: **Comparing the usability of cryptographic APIs**.  
 Yasemin Acar, Michael Backes, Sascha Fahl, Simson Garfinkel, <span style="color:blue">Doowon Kim</span>, Michelle L. Mazurek, and Christian Stransky. (*The authors are alphabetically ordered.*)
 
-- \[SOUPS '16\]: **An inconvenient trust: User attitudes toward security and usability tradeoffs for key-directory encryption systems**.  
- Wei Bai, <span style="color:blue">Doowon Kim</span>, Moses Namara, Yichen Qian, Patrick Gage Kelley, and Michelle L. Mazurek.  
-
 - \[IEEE S&P '16\]: **You get where you're looking for: The impact of information sources on code security**.  
 <i class="fas fa-trophy" style="color:#FF0000;"></i> Awarded the 5th annual NSA Best Scientific Cybersecurity Paper.   
 Yasemin Acar, Michael Backes, Sascha Fahl, <span style="color:blue">Doowon Kim</span>, Michelle L. Mazurek, and Christian Stransky. (*The authors are alphabetically ordered.*)
 
 ### Professional Service
 #### **Review Panel**
-- [NSF] National Science Foundation Proposal Review Panelist --- 2023, 2024
+- [NSF] National Science Foundation Proposal Review Panelist --- 2023, 2024, 2025
 - [NSF] National Science Foundation Graduate Research Fellowships Program (GRFP) Review Panelist --- 2025
 
 ##### **Technical Program Committee**
 - [CCS] ACM Conference on Computer and Communications Security --- [2021](https://www.sigsac.org/ccs/CCS2021/), [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/) 
-- [NDSS] Network and Distributed System Security Symposium --- [2023](https://www.ndss-symposium.org/ndss2023/), [2024](https://www.ndss-symposium.org/ndss2024), [2025](https://www.ndss-symposium.org/ndss2025/)
+- [NDSS] Network and Distributed System Security Symposium --- [2023](https://www.ndss-symposium.org/ndss2023/), [2024](https://www.ndss-symposium.org/ndss2024), [2025](https://www.ndss-symposium.org/ndss2025/), [2026](https://www.ndss-symposium.org/ndss2026/)
 - [WWW] The Web Conference (security track) --- [2022](https://www2022.thewebconf.org/)
 - [IMC] Internet Measurement Conference --- [2025](https://conferences.sigcomm.org/imc/2025/)
-- [ACSAC] Annual Computer Security Applications Conference --- [2024](https://www.acsac.org/2024/)
+- [ACSAC] Annual Computer Security Applications Conference --- [2024](https://www.acsac.org/2024/), [2025](https://www.acsac.org/2025/)
 - [AsiaCCS] ACM Asia Conference on Computer and Communications Security --- [2022](https://asiaccs2022.conferenceservice.jp/), [2023](https://asiaccs2023.org/), [2024](https://asiaccs2024.sutd.edu.sg/)
 - [Euro S&P] IEEE European Symposium on Security and Privacy --- [2023](https://www.ieee-security.org/TC/EuroSP2023/)
 - [RAID] International Symposium on Research in Attacks, Intrusions, and Defenses --- [2021](https://raid2021.org/), [2022](https://raid2022.cs.ucy.ac.cy/index.html), [2023](https://raid2023.org/), [2024](https://raid2024.github.io/)
