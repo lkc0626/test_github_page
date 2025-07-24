@@ -12,7 +12,7 @@ permalink: /people/
 | ![people](../assets/images/fujiao-ji.png) | ![people](../assets/images/lu-liu.jpg) | ![people](../assets/images/jaehwan.png) |
 | <span class="publication-list">USENIX Sec'25, WWW'25</span> | | WWW'24, ESORICS'25 |
 
-**Previous Graduate Students and Visiting Scholars**
+**Previous Graduate Students**
 
 {: .one-col}
 | [Kyungchan Lim](https://kyungchanlim.github.io/) |
@@ -20,6 +20,20 @@ permalink: /people/
 | PhD CS; 2021 - 2025 |
 | ![people](../assets/images/kyungchan.png) |
 | <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, WWW'25 (1), WWW'25 (2)</span> |
+
+**Visiting Scholars & Interns**  
+
+{: .three-col}
+| Seonhye Park | Kiho Lee | Woonghee Lee |
+|:------------:|:--------:|:------------:|
+| Visiting Scholar; 2025 | Visiting Scholar; 2024 - Present | Summer Intern; 2022 |
+| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) |
+
+{: .one-col}
+| Mercy |
+|:-----:|
+| Summer Intern; 2024 |
+| ![people](../assets/images/mercy.jpg) |
 
 **Previous Undergraduate Students**
 
@@ -35,28 +49,21 @@ permalink: /people/
 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
 | ![people](../assets/images/laura.jpg) | ![people](../assets/images/sandy.jpg) | ![people](../assets/images/makenzie.jpg) | ![people](../assets/images/kol.jpg) | ![people](../assets/images/henry.jpg) |
 
-**Visiting Scholars & Interns**  
-
-{: .two-col}
-| Kiho Lee | Mercy |
-|:--------:|:-----:|
-| Visiting Scholar; 2024 - Present | Summer Intern; 2024 |
-| ![people](../assets/hacker.png) | ![people](../assets/images/mercy.jpg) |
-
 **Previous Students**
-- Woonghee Lee (Summer Intern 2022)
-- Autumn Henderson (BS, 2022), now at Cadre5
-- Madeline Phillips (MS, 2022)
-- Zachary Ables (BS, 2021), now at NTT Data
-- Megan Stanton (BS, 2021), now at CGI Federal
-- Hunter Price (BS/MS, 2023), now a Ph.D. student at UTK
-- Andrei Cozma (BS/MS, 2023), now a Ph.D. student at UTK
-- Matt Dixson (BS/MS, 2023)
-- Reed Semmel (BS, 2023), now at Nucor Steel
-- Cole Elliott (BS,  2023)
-- Mike Hughes (BS, 2023)
-- Parker Collier (BS/MS, 2023)
-- Anthony Roman (BS/MS, 2023)
+
+{: .six-col}
+| Autumn Henderson | Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price | Andrei Cozma |
+|:----------------:|:-----------------:|:--------------:|:-------------:|:------------:|:------------:|
+| BS, 2022 | MS, 2022 | BS, 2021 | BS, 2021 | BS/MS, 2023 | BS/MS, 2023 |
+| Now at Cadre5 | | Now at NTT Data | Now at CGI Federal | Now a Ph.D. student at UTK | Now a Ph.D. student at UTK |
+| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) |
+
+{: .six-col}
+| Matt Dixson | Reed Semmel | Cole Elliott | Mike Hughes | Parker Collier | Anthony Roman |
+|:-----------:|:-----------:|:------------:|:-----------:|:--------------:|:-------------:|
+| BS/MS, 2023 | BS, 2023 | BS, 2023 | BS, 2023 | BS/MS, 2023 | BS/MS, 2023 |
+| | Now at Nucor Steel | | | | |
+| ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) | ![people](../assets/hacker.png) |
 
 **Committees**
 - Sai Deepika Dasari (MS, 2025) -- Major Advisor
