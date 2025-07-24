@@ -5,26 +5,35 @@ permalink: /people/
 ---
 **Graduate Students**
 
-{: .four-col}
-| [Kyungchan Lim](https://kyungchanlim.github.io/) | [Fujiao Ji](https://fujiaoji.github.io/) | Lu Liu | [Jaehwan Park](https://sites.google.com/view/jaehwanpark/home) |
-|:-------------:|:----------:|:------:|:------------:|
-| PhD CS; 2021 - Present | PhD CS; 2022 - present | PhD CS; 2023 - present | PhD CS; 2024 - present |
-| ![people](../assets/images/kyungchan.png) | ![people](../assets/images/fujiao-ji.png) | ![people](../assets/images/lu-liu.jpg) | ![people](../assets/images/jaehwan.png) |
-| <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, WWW'25 (1), WWW'25 (2)</span> | <span class="publication-list">USENIX Sec'25, WWW'25</span> | | WWW'24, ESORICS'25 |
+{: .three-col}
+| [Fujiao Ji](https://fujiaoji.github.io/) | Lu Liu | [Jaehwan Park](https://sites.google.com/view/jaehwanpark/home) |
+|:----------:|:------:|:------------:|
+| PhD CS; 2022 - present | PhD CS; 2023 - present | PhD CS; 2024 - present |
+| ![people](../assets/images/fujiao-ji.png) | ![people](../assets/images/lu-liu.jpg) | ![people](../assets/images/jaehwan.png) |
+| <span class="publication-list">USENIX Sec'25, WWW'25</span> | | WWW'24, ESORICS'25 |
 
-**Current Undergraduate Students**
+**Previous Graduate Students and Visiting Scholars**
+
+{: .one-col}
+| [Kyungchan Lim](https://kyungchanlim.github.io/) |
+|:-------------:|
+| PhD CS; 2021 - 2025 |
+| ![people](../assets/images/kyungchan.png) |
+| <span class="publication-list">WISA'22, SecWeb'23, IMC'23, WWW'24, WWW'25 (1), WWW'25 (2)</span> |
+
+**Previous Undergraduate Students**
 
 {: .six-col}
 | Mason Hyman | Jennifer Maranville | Keith Scroggs | Emily Vo | Jackson Weil | Austin Smith |
 |:-----------:|:-------------------:|:-------------:|:--------:|:------------:|:------------:|
-| CS; 2023 - Present | CS; 2023 - present | CS; 2024 - present | CS; 2024 - present | CS; 2024 - present | CS; 2024 - present |
+| CS; 2023 - 2025 | CS; 2023 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
 | ![people](../assets/hacker.png) | ![people](../assets/images/jen.jpg) | ![people](../assets/images/keith.jpg) | ![people](../assets/images/emily.jpeg) | ![people](../assets/images/jackson.jpg) | ![people](../assets/images/austin.jpg) |
 
-{: .six-col}
-| Laura Smith | Sandy Fata | Makenzie Johnson | Kol Dorney | Henry Hodge | |
-|:-----------:|:----------:|:----------------:|:----------:|:-----------:|:-:|
-| CS; 2024 - present | CS; 2024 - present | CS; 2024 - present | CS; 2024 - present | CS; 2024 - present | |
-| ![people](../assets/images/laura.jpg) | ![people](../assets/images/sandy.jpg) | ![people](../assets/images/makenzie.jpg) | ![people](../assets/images/kol.jpg) | ![people](../assets/images/henry.jpg) | |
+{: .five-col}
+| Laura Smith | Sandy Fata | Makenzie Johnson | Kol Dorney | Henry Hodge |
+|:-----------:|:----------:|:----------------:|:----------:|:-----------:|
+| CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
+| ![people](../assets/images/laura.jpg) | ![people](../assets/images/sandy.jpg) | ![people](../assets/images/makenzie.jpg) | ![people](../assets/images/kol.jpg) | ![people](../assets/images/henry.jpg) |
 
 **Visiting Scholars & Interns**  
 
