@@ -31,32 +31,26 @@ permalink: /people/
 
 **Previous Undergraduate Students**
 
-{: .six-col}
-| Mason Hyman | Jennifer Maranville | Keith Scroggs | Emily Vo | Jackson Weil | Austin Smith |
-|:-----------:|:-------------------:|:-------------:|:--------:|:------------:|:------------:|
-| CS; 2023 - 2025 | CS; 2023 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
-| ![under](../assets/hacker.png) | ![under](../assets/images/jen.jpg) | ![under](../assets/images/keith.jpg) | ![under](../assets/images/emily.jpeg) | ![under](../assets/images/jackson.jpg) | ![under](../assets/images/austin.jpg) |
+{: .eight-col}
+| Mason Hyman | Jennifer Maranville | Keith Scroggs | Emily Vo | Jackson Weil | Austin Smith | Laura Smith | Sandy Fata |
+|:-----------:|:-------------------:|:-------------:|:--------:|:------------:|:------------:|:-----------:|:----------:|
+| CS; 2023 - 2025 | CS; 2023 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 |
+| ![under](../assets/hacker.png) | ![under](../assets/images/jen.jpg) | ![under](../assets/images/keith.jpg) | ![under](../assets/images/emily.jpeg) | ![under](../assets/images/jackson.jpg) | ![under](../assets/images/austin.jpg) | ![under](../assets/images/laura.jpg) | ![under](../assets/images/sandy.jpg) |
 
-{: .six-col}
-| Laura Smith | Sandy Fata | Makenzie Johnson | Kol Dorney | Henry Hodge | Autumn Henderson |
-|:-----------:|:----------:|:----------------:|:----------:|:-----------:|:----------------:|
-| CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | BS, 2022 |
-| ![under](../assets/images/laura.jpg) | ![under](../assets/images/sandy.jpg) | ![under](../assets/images/makenzie.jpg) | ![under](../assets/images/kol.jpg) | ![under](../assets/images/henry.jpg) | ![under](../assets/hacker.png) |
-|||||| Now at Cadre5 |
+{: .eight-col}
+| Makenzie Johnson | Kol Dorney | Henry Hodge | Autumn Henderson | Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price |
+|:----------------:|:----------:|:-----------:|:----------------:|:----------------:|:----------:|:-----------:|:----------------:|
+| CS; 2024 - 2025 | CS; 2024 - 2025 | CS; 2024 - 2025 | BS, 2022 | MS, 2022 | BS, 2021 | BS, 2021 | BS/MS, 2023 |
+| ![under](../assets/images/makenzie.jpg) | ![under](../assets/images/kol.jpg) | ![under](../assets/images/henry.jpg) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
+|||| Now at Cadre5 | | Now at NTT Data | Now at CGI Federal | Now a Ph.D. student at UTK |
 
-{: .six-col}
-| Madeline Phillips | Zachary Ables | Megan Stanton | Hunter Price | Andrei Cozma | Matt Dixson |
-|:-----------------:|:--------------:|:-------------:|:------------:|:------------:|:------------:|
-| MS, 2022 | BS, 2021 | BS, 2021 | BS/MS, 2023 | BS/MS, 2023 | BS/MS, 2023 |
-| ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
-| | Now at NTT Data | Now at CGI Federal | Now a Ph.D. student at UTK | Now a Ph.D. student at UTK | |
+{: .eight-col}
+| Andrei Cozma | Matt Dixson | Reed Semmel | Cole Elliott | Mike Hughes | Parker Collier | Anthony Roman |
+|:------------:|:------------:|:-----------:|:------------:|:-----------:|:--------------:|:-------------:|
+| BS/MS, 2023 | BS/MS, 2023 | BS, 2023 | BS, 2023 | BS, 2023 | BS/MS, 2023 | BS/MS, 2023 |
+| ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
+| Now a Ph.D. student at UTK | Now a Ph.D. student at UTK | | Now at Nucor Steel | | | | |
 
-{: .six-col}
-| Reed Semmel | Cole Elliott | Mike Hughes | Parker Collier | Anthony Roman |
-|:-----------:|:------------:|:-----------:|:--------------:|:-------------:|
-| BS, 2023 | BS, 2023 | BS, 2023 | BS/MS, 2023 | BS/MS, 2023 |
-| ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) | ![under](../assets/hacker.png) |
-| Now at Nucor Steel | | | | |
 
 **Committees**
 - Sai Deepika Dasari (MS, 2025) -- Major Advisor
